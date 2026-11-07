@@ -1,0 +1,1 @@
+{"id":"cli:pane:list","result":{"type":"pane_list","panes":[{"pane_id":"self","tab_id":"tab","workspace_id":"workspace","focused":true,"revision":0},{"pane_id":"neighbor","tab_id":"tab","workspace_id":"workspace","focused":false,"revision":0},{"pane_id":"other-tab","tab_id":"other","workspace_id":"workspace","focused":false,"revision":0}]}}
